@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DesignNDev\Lab1\Directory\T3\bin\Debug\T3.exe.config
+C:\Users\User\Desktop\DesignNDev\Lab1\Directory\T3\bin\Debug\T3.exe
+C:\Users\User\Desktop\DesignNDev\Lab1\Directory\T3\bin\Debug\T3.pdb
+C:\Users\User\Desktop\DesignNDev\Lab1\Directory\T3\obj\Debug\T3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\Lab1\Directory\T3\obj\Debug\T3.exe
+C:\Users\User\Desktop\DesignNDev\Lab1\Directory\T3\obj\Debug\T3.pdb

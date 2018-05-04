@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\bin\Debug\Levenstein.exe.config
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\obj\Debug\Levenstein.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\obj\Debug\Levenstein.Form1.resources
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\obj\Debug\Levenstein.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\bin\Debug\Levenstein.exe
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\bin\Debug\Levenstein.pdb
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\obj\Debug\Levenstein.exe
+C:\Users\User\Desktop\DesignNDev\Lab1\Levenstein\Levenstein\obj\Debug\Levenstein.pdb

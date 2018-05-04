@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\bin\Debug\Searcher.exe.config
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\bin\Debug\Searcher.exe
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\bin\Debug\Searcher.pdb
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\obj\Debug\Searcher.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\obj\Debug\Searcher.Form1.resources
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\obj\Debug\Searcher.Properties.Resources.resources
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\obj\Debug\Searcher.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\obj\Debug\Searcher.exe
+C:\Users\User\Desktop\DesignNDev\Searcher\Searcher\obj\Debug\Searcher.pdb

@@ -1,0 +1,14 @@
+﻿@using Quiz.Controllers
+
+@model IEnumerable<Quiz.Models.Movie>
+
+@Model Quiz.Models.Movie
+@{
+    ViewBag.Title = "Random";
+}
+<h2>Random 3 movies</h2>
+
+
+@foreach(var i in Model){
+    <p>@i.Title</p>
+}

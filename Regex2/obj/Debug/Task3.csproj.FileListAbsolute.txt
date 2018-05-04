@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\DesignNDev\Lab3\Task3\bin\Debug\Task3.exe.config
+C:\Users\User\Desktop\DesignNDev\Lab3\Task3\bin\Debug\Task3.exe
+C:\Users\User\Desktop\DesignNDev\Lab3\Task3\bin\Debug\Task3.pdb
+C:\Users\User\Desktop\DesignNDev\Lab3\Task3\obj\Debug\Task3.exe
+C:\Users\User\Desktop\DesignNDev\Lab3\Task3\obj\Debug\Task3.pdb

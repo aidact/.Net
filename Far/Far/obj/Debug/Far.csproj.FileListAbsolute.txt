@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DesignNDev\Far\Far\bin\Debug\Far.exe.config
+C:\Users\User\Desktop\DesignNDev\Far\Far\bin\Debug\Far.exe
+C:\Users\User\Desktop\DesignNDev\Far\Far\bin\Debug\Far.pdb
+C:\Users\User\Desktop\DesignNDev\Far\Far\obj\Debug\Far.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\Far\Far\obj\Debug\Far.exe
+C:\Users\User\Desktop\DesignNDev\Far\Far\obj\Debug\Far.pdb

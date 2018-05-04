@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\DesignNDev\MID\MID\bin\Debug\MID.exe.config
+C:\Users\User\Desktop\DesignNDev\MID\MID\obj\Debug\MID.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\MID\MID\obj\Debug\MID.Form1.resources
+C:\Users\User\Desktop\DesignNDev\MID\MID\obj\Debug\MID.Properties.Resources.resources
+C:\Users\User\Desktop\DesignNDev\MID\MID\obj\Debug\MID.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DesignNDev\MID\MID\bin\Debug\MID.exe
+C:\Users\User\Desktop\DesignNDev\MID\MID\bin\Debug\MID.pdb
+C:\Users\User\Desktop\DesignNDev\MID\MID\obj\Debug\MID.exe
+C:\Users\User\Desktop\DesignNDev\MID\MID\obj\Debug\MID.pdb

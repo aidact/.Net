@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\bin\Debug\TaskTimer.exe.config
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\bin\Debug\TaskTimer.exe
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\bin\Debug\TaskTimer.pdb
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\obj\Debug\TaskTimer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\obj\Debug\TaskTimer.Form1.resources
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\obj\Debug\TaskTimer.Properties.Resources.resources
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\obj\Debug\TaskTimer.TaskControl.resources
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\obj\Debug\TaskTimer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\obj\Debug\TaskTimer.exe
+C:\Users\User\Desktop\DesignNDev\TaskTimer\TaskTimer\obj\Debug\TaskTimer.pdb

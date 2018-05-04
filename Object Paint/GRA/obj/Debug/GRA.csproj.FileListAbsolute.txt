@@ -1,0 +1,79 @@
+C:\Documents and Settings\pakita\Local Settings\Application Data\Temporary Projects\GRA\bin\Debug\GRA.exe
+C:\Documents and Settings\pakita\Local Settings\Application Data\Temporary Projects\GRA\bin\Debug\GRA.pdb
+C:\Documents and Settings\pakita\Local Settings\Application Data\Temporary Projects\GRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pakita\Local Settings\Application Data\Temporary Projects\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Documents and Settings\pakita\Local Settings\Application Data\Temporary Projects\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Documents and Settings\pakita\Local Settings\Application Data\Temporary Projects\GRA\obj\Debug\GRA.exe
+C:\Documents and Settings\pakita\Local Settings\Application Data\Temporary Projects\GRA\obj\Debug\GRA.pdb
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\obj\Debug\GRA.exe
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\obj\Debug\GRA.pdb
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\bin\Debug\GRA.exe
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\bin\Debug\GRA.pdb
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Documents and Settings\pakita\My Documents\Visual Studio 2008\Projects\GRA\GRA\obj\Debug\GRA.Drawing.resources
+D:\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.exe
+D:\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.pdb
+D:\C_SHARP\projects\GRA\GRA\obj\Debug\ResolveAssemblyReference.cache
+D:\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.Drawing.resources
+D:\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.Properties.Resources.resources
+D:\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+D:\C_SHARP\projects\GRA\GRA\bin\Debug\GRA.exe
+D:\C_SHARP\projects\GRA\GRA\bin\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\bin\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\bin\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.Drawing.resources
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Users\Pakita\Desktop\KBTU\C_SHARP\projects\GRA\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\obj\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\obj\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\bin\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\bin\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\obj\Debug\GRA.Drawing.resources
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET C#\useful examples c#\GRA triangle, rect\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\obj\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\obj\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\bin\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\bin\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\obj\Debug\GRA.Drawing.resources
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\GRA triangle, rect\GRA\obj\Debug\GRA.Profile.resources
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.Drawing.resources
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\bin\Debug\GRA.exe
+C:\Users\Pakita\Desktop\KBTU\TEACHING\.NET 2\Object Paint for students\GRA\bin\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\преподавание\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.exe
+C:\Users\Pakita\Desktop\преподавание\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\преподавание\.NET 2\Object Paint for students\GRA\bin\Debug\GRA.exe
+C:\Users\Pakita\Desktop\преподавание\.NET 2\Object Paint for students\GRA\bin\Debug\GRA.pdb
+C:\Users\Pakita\Desktop\преподавание\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.Drawing.resources
+C:\Users\Pakita\Desktop\преподавание\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Users\Pakita\Desktop\преподавание\.NET 2\Object Paint for students\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\obj\Debug\GRA.exe
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\obj\Debug\GRA.pdb
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\obj\Debug\GRA.csprojResolveAssemblyReference.cache
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\obj\Debug\GRA.Drawing.resources
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\bin\Debug\GRA.exe
+C:\Users\pakita\Desktop\trash\материалы\материалы\Object Paint for students\GRA\bin\Debug\GRA.pdb
+C:\Users\User\Desktop\Object Paint for students\GRA\obj\Debug\GRA.exe
+C:\Users\User\Desktop\Object Paint for students\GRA\obj\Debug\GRA.pdb
+C:\Users\User\Desktop\Object Paint for students\GRA\bin\Debug\GRA.exe
+C:\Users\User\Desktop\Object Paint for students\GRA\bin\Debug\GRA.pdb
+C:\Users\User\Desktop\Object Paint for students\GRA\obj\Debug\GRA.Drawing.resources
+C:\Users\User\Desktop\Object Paint for students\GRA\obj\Debug\GRA.Properties.Resources.resources
+C:\Users\User\Desktop\Object Paint for students\GRA\obj\Debug\GRA.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Object Paint for students\GRA\obj\Debug\GRA.csprojResolveAssemblyReference.cache

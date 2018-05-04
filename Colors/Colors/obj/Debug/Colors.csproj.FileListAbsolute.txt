@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DesignNDev\Colors\Colors\bin\Debug\Colors.exe.config
+C:\Users\User\Desktop\DesignNDev\Colors\Colors\bin\Debug\Colors.exe
+C:\Users\User\Desktop\DesignNDev\Colors\Colors\bin\Debug\Colors.pdb
+C:\Users\User\Desktop\DesignNDev\Colors\Colors\obj\Debug\Colors.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\Colors\Colors\obj\Debug\Colors.exe
+C:\Users\User\Desktop\DesignNDev\Colors\Colors\obj\Debug\Colors.pdb

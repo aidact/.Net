@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\bin\Debug\Pres.exe.config
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\bin\Debug\Pres.exe
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\bin\Debug\Pres.pdb
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\obj\Debug\Pres.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\obj\Debug\Pres.Form1.resources
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\obj\Debug\Pres.Properties.Resources.resources
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\obj\Debug\Pres.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\obj\Debug\Pres.exe
+C:\Users\User\Desktop\DesignNDev\Pres\Pres\obj\Debug\Pres.pdb
